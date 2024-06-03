@@ -2,9 +2,9 @@
 End-to-End solution connecting Ninjatrader8 💹 with Python with a simple drag and drop EA. Fully tested bug free &amp; efficient solution for live &amp; paper trading⭐ Full Documentation ready. Lightweight, efficient and stable implementation 🔥
 ![image](https://github.com/TheSnowGuru/PyNinjaTrader-python-NinjaTrader8-trading-api-connector-drag-n-drop/assets/5313475/a8ea44f7-762a-40db-b25c-6676dce57580)
 
-The PyNinjaTrader ecosystem consists of a Python script and a NinjaTrader 8 strategy. 
+The PyNinjaTrader ecosystem consists of a Python script and a NinjaTrader 8 script. 
 For licensing, an indicator is used. 
-Documentation for connecting NinjaTrader 8 with Python using a simple drag and drop strategy.
+Documentation for connecting NinjaTrader 8 with Python using a simple drag and drop indicator.
 A fully suited solution that is fully tested, fast, and efficient.
 
 The communication between the Python script and the strategy is based on websockets.
@@ -18,14 +18,12 @@ In the demo (without the licensing indicator), you have full functionality, but 
 
 [![Join our Discord](https://github.com/TheSnowGuru/PyTrader-python-mt4-mt5-trading-api-connector-drag-n-drop/blob/master/join.png)](https://discord.gg/wRMUNP8ERa)
 
-Check versions: PyNinjaTrader version _06 works with strategy version .06.
+Check versions: PyNinjaTrader 
 
 # Python NinjaTrader 8 Connector
-Easier than ever before!
-Connecting NinjaTrader 8 with Python strategies using this simple drag and drop strategy has never been so easy!
-A full & fast solution tested with real trading.
-Amazing capabilities like downloading bar data & creating a live feed for your strategies with 1 line of code. 
-Enjoy.
+Easier than ever before! Connecting NinjaTrader 8 with Pythonic strategies using this simple drag and drop connector has never been so easy!
+A full & fast solution tested with real trading. 
+Amazing capabilities like downloading bar data & creating a live feed for your strategies with few line of code. 
 
 ## Drag & Drop Python Connector for NinjaTrader 8 
 ## Growing list of features:
