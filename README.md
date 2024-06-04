@@ -49,7 +49,7 @@ Amazing capabilities like downloading bar data & creating a live feed for your s
 ![Installation flow](https://github.com/TheSnowGuru/PyTrader-python-mt5-trading-api-connector/blob/master/Pytrader_API_installation_MT5.png  "Installation flow")
 
 ## Documentation
-See the documentation for NinjaTrader 8 [here](https://github.com/TheSnowGuru/PyTrader-python-mt4-mt5-trading-api-connector-drag-n-drop/blob/master/Pytrader_API%20for%20MT5.pdf)
+See the documentation for NinjaTrader 8 [here](#)
 
 ## Get the strategy working for all instruments:
 ## NinjaTrader 8 Python ==> Get FULL Version [here](https://www.mql5.com/en/market/product/118213)
