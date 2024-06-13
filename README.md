@@ -2,12 +2,12 @@
 End-to-End solution connecting Ninjatrader8 💹 with Python with a simple drag and drop EA. Fully tested bug free &amp; efficient solution for live &amp; paper trading⭐ Full Documentation ready. Lightweight, efficient and stable implementation 🔥
 ![image](https://github.com/TheSnowGuru/PyNinjaTrader-python-NinjaTrader8-trading-api-connector-drag-n-drop/assets/5313475/a8ea44f7-762a-40db-b25c-6676dce57580)
 
-The PyNinjaTrader ecosystem consists of a Python script and a NinjaTrader 8 script. 
+The PyNinjaTrader ecosystem consists of a C# DLL and a NinjaTrader 8 C# script. 
 For licensing, an indicator is used. 
-Documentation for connecting NinjaTrader 8 with Python using a simple drag and drop indicator.
+Documentation for connecting NinjaTrader 8 with MT4/5 terminal using a simple drag and drop indicator and an EA.
 A fully suited solution that is fully tested, fast, and efficient.
 
-The communication between the Python script and the strategy is based on websockets.
+The communication between the NT8 strategy script and the MT4/5 terminal is based on sockets.
 The strategy acts as the server, and the Python script is the client.
 It is always query (function/Python script) and output (data/server).
 The strategy does not need to run on the same computer as the Python script.
