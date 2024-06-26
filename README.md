@@ -1,8 +1,8 @@
-## PyNinjaTrader - Drag & Drop Python API Connector for NinjaTrader 8
+## PythonNinja - Drag & Drop Python API Connector for NinjaTrader 8
 End-to-End solution connecting Ninjatrader8 💹 with Python with a simple drag and drop EA. Fully tested bug free &amp; efficient solution for live &amp; paper trading⭐ Full Documentation ready. Lightweight, efficient and stable implementation 🔥
 ![image](https://github.com/TheSnowGuru/PyNinjaTrader-python-NinjaTrader8-trading-api-connector-drag-n-drop/assets/5313475/a8ea44f7-762a-40db-b25c-6676dce57580)
 
-The PyNinjaTrader ecosystem consists of a C# DLL and a NinjaTrader 8 C# script. 
+The PythonNinja ecosystem consists of a C# DLL and a NinjaTrader 8 C# script. 
 For licensing, an indicator is used. 
 Documentation for connecting NinjaTrader 8 with MT4/5 terminal using a simple drag and drop indicator and an EA.
 A fully suited solution that is fully tested, fast, and efficient.
@@ -18,7 +18,7 @@ In the demo (without the licensing indicator), you have full functionality, but 
 
 [![Join our Discord](https://github.com/TheSnowGuru/PyTrader-python-mt4-mt5-trading-api-connector-drag-n-drop/blob/master/join.png)](https://discord.gg/wRMUNP8ERa)
 
-Check versions: PyNinjaTrader 
+Check versions: Python Ninja 
 
 # Python NinjaTrader 8 Connector
 Easier than ever before! Connecting NinjaTrader 8 with Pythonic strategies using this simple drag and drop connector has never been so easy!
