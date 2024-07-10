@@ -1,5 +1,10 @@
-## PythonNinja - Drag & Drop Python API Connector for NinjaTrader 8
-End-to-End solution connecting Ninjatrader8 💹 with Python with a simple drag and drop EA. Fully tested bug free &amp; efficient solution for live &amp; paper trading⭐ Full Documentation ready. Lightweight, efficient and stable implementation 🔥
+## PyNinjaTrader_API - Drag & Drop C# Connector(DLL) for strategies coded in C# with MT4/5 brokers.
+
+The PyNinjaTrader_API is a connection/interface between C# strategy(Visual Studio, VS code, NT8,...) and a MT4/5 terminal. In priciple for all C# coding as long as external DDL's can be imported.
+The functionality is a anology to our wel known Pytrader_API used by many user startegys coded in python.
+Besides the DLL an EA is needed for MT4 and MT5 terminal. These are also part of the system.
+The demo version has full functionality for the following instruments: EURUSD, AUDCHF, NZDCHF, GBPNZD and USDCAD. Dax is added as index instrument in the demo.
+The functionality is documented in an .pdf file.
 ![image](https://github.com/TheSnowGuru/PyNinjaTrader-python-NinjaTrader8-trading-api-connector-drag-n-drop/assets/5313475/a8ea44f7-762a-40db-b25c-6676dce57580)
 
 The PythonNinja ecosystem consists of a C# DLL and a NinjaTrader 8 C# script. 
