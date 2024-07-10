@@ -1,4 +1,4 @@
-## PyNinjaTrader_API - Drag & Drop C# Connector(DLL) for strategies coded in C# with MT4/5 brokers.
+## PyNinjaTrader_API - Drag & Drop C# Connector(DLL) for strategies coded in C# in combination with MT4/5 brokers.
 
 The PyNinjaTrader_API is a connection/interface between C# strategy(Visual Studio, VS code, NT8,...) and a MT4/5 terminal. In priciple for all C# coding as long as external DDL's can be imported.
 The functionality is a anology to our wel known Pytrader_API used by many user startegys coded in python.
