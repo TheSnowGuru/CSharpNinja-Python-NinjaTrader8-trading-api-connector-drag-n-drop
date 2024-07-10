@@ -51,7 +51,7 @@ Amazing capabilities like downloading bar data & creating a live feed for your s
 * NinjaTrader 8 → Python Get indicator data from NinjaTrader 8 to your script - coming soon!
 
 ## NinjaTrader 8 installation flow:
-![Installation flow](https://github.com/TheSnowGuru/PyTrader-python-mt5-trading-api-connector/blob/master/Pytrader_API_installation_MT5.png  "Installation flow")
+![Installation flow](https://github.com/TheSnowGuru/PythonNinja-Python-NinjaTrader8-trading-api-connector-drag-n-drop/blob/main/Ninja_ea_install.png  "Installation flow")
 
 ## Documentation
 See the documentation for NinjaTrader 8 [here](#)
