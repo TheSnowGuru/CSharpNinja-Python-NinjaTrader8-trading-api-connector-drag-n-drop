@@ -5,21 +5,21 @@ The functionality is an anology to our wel known Pytrader_API used by many user 
 Besides the DLL an EA is needed for MT4 and MT5 terminal. These are also part of the system.
 The demo version has full functionality for the following instruments: EURUSD, AUDCHF, NZDCHF, GBPNZD and USDCAD. Dax is added as index instrument in the demo.
 The functionality is documented in an .pdf file.
+
+
 ![image](https://github.com/TheSnowGuru/PyNinjaTrader-python-NinjaTrader8-trading-api-connector-drag-n-drop/assets/5313475/a8ea44f7-762a-40db-b25c-6676dce57580)
 
-The PythonNinja ecosystem consists of a C# DLL and a NinjaTrader 8 C# script. 
-For licensing, an indicator is used. 
-Documentation for connecting NinjaTrader 8 with MT4/5 terminal using a simple drag and drop indicator and an EA.
-A fully suited solution that is fully tested, fast, and efficient.
+The DLL can be added to your system of choice as a reference.
+A MT4 or MT5 terminal must be running. The appropriate EA must be runnng in one chart. Socket server port and for licensed version 
+the folder with the authentication indicator must be filled in. In demo the system is working full functioning for the above mentioned instrument.
+The authentication indicator can be acquired via MQL5 Markets.
 
-The communication between the NT8 strategy script and the MT4/5 terminal is based on sockets.
-The strategy acts as the server, and the Python script is the client.
-It is always query (function/Python script) and output (data/server).
-The strategy does not need to run on the same computer as the Python script.
-On our GitHub link, you will find the Python script, the strategies, full documentation, and a PyNinjaTrader example script showing how to call the functions.
-For questions, we also have a Discord channel.
-In the demo (without the licensing indicator), you have full functionality, but for a limited number of instruments 
-(EURUSD, AUDCHF, NZDCHF, GBPNZD, and USDCAD).
+The socket communication is very fast (interrupt based). The execution time of the function depends on the function and selected broker.
+The MT terminal acts as server and the PyNinjaTrader_API as client, so always question / answer.
+
+Coding examples are available.
+
+For questions we have a Discord Channel.
 
 [![Join our Discord](https://github.com/TheSnowGuru/PyTrader-python-mt4-mt5-trading-api-connector-drag-n-drop/blob/master/join.png)](https://discord.gg/wRMUNP8ERa)
 
