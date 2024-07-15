@@ -25,36 +25,31 @@ For questions we have a Discord Channel.
 
 Check versions: Python Ninja 
 
-# Python NinjaTrader 8 Connector
-Easier than ever before! Connecting NinjaTrader 8 with Pythonic strategies using this simple drag and drop connector has never been so easy!
-A full & fast solution tested with real trading. 
-Amazing capabilities like downloading bar data & creating a live feed for your strategies with few line of code. 
+# C# PyNinjaTrader_API for NT8 & C# strategies.
+Easier then before. With the NinjaTrader_API make connection with MT4/5 broker.
+It can be done with every system using C# as coding language.
+Open, Close, Change, Delete  orders / positions.
+Retrieve account tick, candle info and many more.
+It's so easy to do, already for years available for python.
 
-## Drag & Drop Python Connector for NinjaTrader 8 
-## Growing list of features:
-* Python login to NinjaTrader 8 Terminal
-* Python Connection keep-alive function
-* Get NinjaTrader 8 Account Info → Python client
-* Python Client Open New Orders → NinjaTrader 8
- (Verify the sending, and verifying the receiving of the order in NinjaTrader 8)
-* Python Client can Change (take profit, stop loss)/Cancel/Open Orders → NinjaTrader 8
-* Python Close/Partly Close Positions → NinjaTrader 8
-* NinjaTrader 8 Execution info → Python client
-* NinjaTrader 8 → Python Get all Open orders & Positions
-* NinjaTrader 8 → Python Get static account information
-* NinjaTrader 8 → Python Get dynamic account info like [balance, equity, margin, free margins]
-* NinjaTrader 8 → Python Get instrument information [pip value, max lot, tick size, tick value]
-* NinjaTrader 8 → Python Get last tick data [date, bid, ask, volume]
-* NinjaTrader 8 → Python Get bar data [date, open, low, high, close, volume]
-* NinjaTrader 8 → Python Get last X ticks array [date, bid, ask, last, volume]
-* NinjaTrader 8 → Python Get last X bars array [date, open, low, high, close, volume]
-* NinjaTrader 8 → Python Get indicator data from NinjaTrader 8 to your script - coming soon!
+## Feature list.:
+* Connect to MT4 / MT5 broker.
+* Check connection.
+* Retrieve static and dynamic account info.
+* Enable / disable auto trading(protection).
+* Retrieve tick data.
+* Retrieve bar / candle data.
+* Get instrument info.
+* Check tradebility of instrument.
+* Open pending and market orders.
+* Change settings like, stoploss, takeprofit of orders / positions.
+* Close positions, delete pending orders
 
-## NinjaTrader 8 installation flow:
+## PyNinjaTrader API installation flow:
 ![Installation flow](https://github.com/TheSnowGuru/PythonNinja-Python-NinjaTrader8-trading-api-connector-drag-n-drop/blob/main/Ninja_ea_install.png  "Installation flow")
 
 ## Documentation
-See the documentation for NinjaTrader 8 [here](#)
+See the documentation (.PDF) for PyNinjaTrader_API [here](#)
 
 ## Get the strategy working for all instruments:
-## NinjaTrader 8 Python ==> Get FULL Version [here](https://www.mql5.com/en/market/product/118213)
+## NinjaTrader_API  C# ==> Get FULL Version [here](https://www.mql5.com/en/market/product/118213)
