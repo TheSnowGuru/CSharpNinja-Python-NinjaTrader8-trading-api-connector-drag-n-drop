@@ -44,6 +44,7 @@ It's so easy to do, already for years available for python.
 * Open pending and market orders.
 * Change settings like, stoploss, takeprofit of orders / positions.
 * Close positions, delete pending orders
+* And many more now and to come
 
 ## PyNinjaTrader API installation flow:
 ![Installation flow](https://github.com/TheSnowGuru/PythonNinja-Python-NinjaTrader8-trading-api-connector-drag-n-drop/blob/main/Ninja_ea_install.png  "Installation flow")
