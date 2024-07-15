@@ -26,7 +26,7 @@ For questions we have a Discord Channel.
 Check versions: Python Ninja 
 
 # C# PyNinjaTrader_API for NT8 & C# strategies.
-Easier then before. With the NinjaTrader_API make connection with MT4/5 broker.
+Easier then before. With the PyNinjaTrader_API make connection with MT4/5 broker.
 It can be done with every system using C# as coding language.
 Open, Close, Change, Delete  orders / positions.
 Retrieve account tick, candle info and many more.
@@ -53,4 +53,4 @@ It's so easy to do, already for years available for python.
 See the documentation (.PDF) for PyNinjaTrader_API [here](#)
 
 ## Get the strategy working for all instruments:
-## NinjaTrader_API  C# ==> Get FULL Version [here](https://www.mql5.com/en/market/product/118213)
+## PyNinjaTrader_API  C# ==> Get FULL Version [here](https://www.mql5.com/en/market/product/118213)
